@@ -1,0 +1,70 @@
+{
+    "1": {
+        "current_account": {
+            "account_number": 1,
+            "balance": 1300.0,
+            "interest_rate": 0.01
+        },
+        "savings_account": {
+            "account_number": -1,
+            "balance": 0,
+            "interest_rate": 0.05
+        },
+        "mortgage_account": {
+            "account_number": 4,
+            "balance": 0,
+            "interest_rate": 0.08
+        }
+    },
+    "2": {
+        "current_account": {
+            "account_number": 5,
+            "balance": 234.0,
+            "interest_rate": 0.01
+        },
+        "savings_account": {
+            "account_number": 6,
+            "balance": 567.0,
+            "interest_rate": 0.05
+        },
+        "mortgage_account": {
+            "account_number": -1,
+            "balance": 0,
+            "interest_rate": 0.08
+        }
+    },
+    "3": {
+        "current_account": {
+            "account_number": 8,
+            "balance": 11963.45,
+            "interest_rate": 0.01
+        },
+        "savings_account": {
+            "account_number": -1,
+            "balance": 0,
+            "interest_rate": 0.05
+        },
+        "mortgage_account": {
+            "account_number": 7,
+            "balance": 229540.0,
+            "interest_rate": 0.08
+        }
+    },
+    "4": {
+        "current_account": {
+            "account_number": 11,
+            "balance": 0,
+            "interest_rate": 0.01
+        },
+        "savings_account": {
+            "account_number": 9,
+            "balance": 10.5,
+            "interest_rate": 0.05
+        },
+        "mortgage_account": {
+            "account_number": 9,
+            "balance": 0,
+            "interest_rate": 0.08
+        }
+    }
+}
