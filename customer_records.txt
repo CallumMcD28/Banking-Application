@@ -1,4 +1,4 @@
 1: ['Callum Mcdonald', 'pass']
 2: ['John Smith', 'pass']
-3: ['Maddy Dreze', 'callum']
-4: ['Heather Mcdonald', 'pass']
+3: ['Maddy Flood', 'password']
+4: ['Heather Muir', 'pass']
